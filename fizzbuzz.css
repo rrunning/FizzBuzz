@@ -1,0 +1,29 @@
+.square {
+	width: 150px;
+	height: auto;
+	text-align: center;
+	font-size: 35px;
+	font-variant: small-caps;
+	font-family: verdana;
+	border-radius: 20px;
+	float: left;
+	margin: 15px;
+	padding-top: 35px;
+	padding-bottom: 35px;
+}
+.fizz {
+	background-color: #7E0404;
+	color: white;
+}
+.buzz {
+	background-color: #ffff99;
+	color: black;
+}
+.fizzbuzz {
+	background-color: #ffae1a;
+	color: black;
+}
+.number {
+	background-color: #003B6F;
+	color: white;
+}
